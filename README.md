@@ -1,6 +1,6 @@
 - 👋 Hi, you've reached Zachary Tower's school account (@ztower-umass)
-- 💻 I'm a Computer Science major at the University of Massachusetts, Amherst (Class of 2023)
-- 💸 I've interned at Fidelity Investments Cognitive Computing Platform in Covington, KY (Summer 2020). I'm interning with Fidelity again this summer (2021)
+- 💻 I'm a Computer Science major at the University of Massachusetts, Amherst (Class of 2022)
+- 💸 I interned with Fidelity Investments twice, once during the summer of 2020 and again during the summer of 2021. I am currently seeking employment for full-time work as a new grad.
 - 📫 For school-related queries, reach me through my email at ztower@umass.edu.
 
 <!---
